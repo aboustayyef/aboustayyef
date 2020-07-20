@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello This is Mustapha 👋 #
-### I'm not a professional programmer but I do webdev as a side hobby. I work mostly with web technologies, enhanced by [Laravel](https://laravel.com) and [Vue](https://vuejs.org/) to build web apps that sometimes only I use.  ###
+### I'm not a professional coder but I do webdev as a side hobby. I work mostly with web technologies, enhanced by [Laravel](https://laravel.com) and [Vue](https://vuejs.org/) to build web apps that sometimes only I use.  ###
 
 
 ⚡ Fun fact: I was trained as a Designer in college, but I've been programming since age 10 (a loooong time ago)... This makes me technically a full stack webdev because I work on design, backend and frontend.
