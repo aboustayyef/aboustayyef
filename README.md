@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aboustayyef/aboustayyef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello This is Mustapha #
+# Hello This is Mustapha 👋 #
 ### I'm not a professional programmer but I do full stack webdev as a side hobby. ###
 
-I am trained as a Designer in college, but I've been programming since age 10 (a loooong time ago)... Today, I work mostly with web technologies, enhanced by [Laravel](https://laravel.com) and [Vue](https://vuejs.org/) to build web apps that sometimes only I use. 
+I work mostly with web technologies, enhanced by [Laravel](https://laravel.com) and [Vue](https://vuejs.org/) to build web apps that sometimes only I use. 
 
+⚡ Fun fact: I was trained as a Designer in college, but I've been programming since age 10 (a loooong time ago)... This makes me technically a full stack webdev because I work on design, backend and frontend.
