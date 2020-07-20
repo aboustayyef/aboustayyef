@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 # Hello This is Mustapha #
 ### I'm not a professional programmer but I do full stack webdev as a side hobby. ###
 
-Mostly I work with web technologies, enhanced by [Laravel](https://laravel.com) and [Vue](https://vuejs.org/) to build websites and web apps that only I use. 
-This fancy RSS sync engine / reader that includes different view modes is a typical side project...
+I am trained as a Designer in college, but I've been programming since age 10 (a loooong time ago)... Today, I work mostly with web technologies, enhanced by [Laravel](https://laravel.com) and [Vue](https://vuejs.org/) to build web apps that sometimes only I use. 
 
